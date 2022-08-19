@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Halo Application
+Implementation-Version: 1.5.4
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: run.halo.app.Application
+Spring-Boot-Version: 2.5.12
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx
+

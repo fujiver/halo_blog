@@ -1,0 +1,44 @@
+id: joe2.0
+name: Joe2.0
+author:
+  name: M酷
+  website: https://bbchin.com
+description: Halo主题 Joe2.0
+logo: https://bbchin.com/logo
+website: https://bbchin.com
+repo: https://github.com/qinhua/halo-theme-joe2.0
+cover: https://cdn.jsdelivr.net/gh/qinhua/halo-theme-joe2.0@master/source/img/dp/welcome.jpg
+version: 1.0.10
+require: ^1.5.0
+# 文章页 meta 变量
+postMetaField:
+  - enable_aside
+  - enable_page_meta
+  - enable_passage_tips
+  - enable_collect_check
+  - enable_read_limit
+  - use_raw_content
+  - enable_comment
+  - enable_toc
+  - toc_depth
+  - img_align
+  - img_max_width
+  - enable_copy
+  - enable_donate
+  - enable_share
+  - enable_like
+  - code_theme
+  - enable_fold_long_code
+  - enable_katex
+
+# 自定义页 meta 变量
+sheetMetaField:
+  - enable_aside
+  - enable_page_meta
+  - enable_collect_check
+  - use_raw_content
+  - enable_comment
+  - img_align
+  - img_max_width
+  - enable_katex
+  # - show_thumbnail
