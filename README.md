@@ -10,7 +10,7 @@ Git 仓库https://github.com/LIlGG/halo-theme-sakura<br/>
 当前版本1.3.4<br/>
 存储位置/root/.halo/templates/themes/LIlGG_Sakura<br/>
 ## 2022.8.17
-测试```文件上传``` ```发文``` ```评论``` ```音乐``` ``` ```修改页面```
+测试```文件上传``` ```发文``` ```评论``` ```音乐``` ```修改页面```
 ## 2022.8.19
 参考官方文档,模板```Halo.service``` 实现Halo在服务器常驻运行
 ## 2022.8.20
